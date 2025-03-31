@@ -1,0 +1,27 @@
+.mondrian {
+    background-color: black;
+}
+
+.area1a, 
+.area2a, 
+.area2d,
+.area2e,
+.area3b,
+.area3c,
+.area4a2,
+.area4b-coluna2-linha2,
+.area4b-coluna3 {
+    background-color: white;
+}
+
+.area2b,
+.area4a1,
+.area4b-coluna1-linha3 {
+    background-color: rgb(245, 209, 30);
+}
+
+.area2c,
+.area3d,
+.area4b-coluna2-linha1 {
+    background-color: rgb(7, 7, 161);
+}
